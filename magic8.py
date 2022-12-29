@@ -1,6 +1,7 @@
 name = "Peter"
 
-question = ""
+print("What do you want to ask?")
+question = input()
 
 answer = ""
 
